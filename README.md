@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building more Devops project
 - 🌱 I’m currently learning Go, GCP, Networking
 - 👯 I’m looking to collaborate on Python projects, AWS projects, containers, kubernetes
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about docker, terraform, kubernetes or any cloud engineering 😍
